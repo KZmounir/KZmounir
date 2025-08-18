@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&textBg=false&fontColor=00FFF0&fontSize=28&fontAlign=53&fontAlignY=38&animation=twinkling&rotate=0&stroke=00FFF0&strokeWidth=0)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=02B0AF&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;Welcome+To+My+Profile+!;My+name+is+Mounir" alt="Typing SVG" /></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFF0&width=600&lines=Hi+there+👋;Welcome+To+My+Profile+!;My+name+is+Mounir)](https://git.io/typing-svg)
 
 <!--
