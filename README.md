@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&textBg=false&fontColor=00FFF0&fontSize=28&fontAlign=53&fontAlignY=38&animation=twinkling&rotate=0&stroke=00FFF0&strokeWidth=0)
-## Hi there 👋
-## Welcome To My Profile !
-## My name is Mounir
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFF0&width=600&lines=Hi+there+👋;Welcome+To+My+Profile+!;My+name+is+Mounir)](https://git.io/typing-svg)
 
 <!--
 **KZmounir/KZmounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
